@@ -7,5 +7,4 @@ run: all
 clean:
 	rm -f *.o
 	rm -f *~
-	rm -f a.out
 	rm -f parse_args
